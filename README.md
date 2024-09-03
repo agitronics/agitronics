@@ -1,5 +1,4 @@
-- 👋 Welcome to the repo for @agitronics. We are an AI/ML Research and Development firm dedicated to the purspuit of Western-Aligned-AGI and
-8 socially responsible deployment of disruptive AI. 
+- 👋 AGITRONICS is an IT Consultancy Team managed by Michael Rapoport, specializing in complex AI and ML solutions and penetration testing. 
 
 <!---
 agitronics/agitronics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
